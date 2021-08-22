@@ -22,8 +22,8 @@
 
 ----------
 
-## [התקנות](https://github.com/ItaiPendler/cpr-installs/blob/main/installations.md)
+## [התקנות](https://github.com/ItaiPendler/cpr-welcome/blob/main/installations.md)
 
-## [חפיפה אפליקטיבית](https://githut.com/ItaiPendler/cpr-installs/blob/main/fullstack-mentoring.md)
+## [חפיפה אפליקטיבית](https://githut.com/ItaiPendler/cpr-welcome/blob/main/fullstack-mentoring.md)
 ## סיימתם!
 <div>
