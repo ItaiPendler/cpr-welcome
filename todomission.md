@@ -10,11 +10,7 @@
 5.	[GraphQL](https://graphql.org/)
 6.	[TypeORM](https://typeorm.io/)
 
-המשימה תתחלק ל-3 חלקים, כאשר אחרי כל חלק החופף יעשה לכם code review מלא.
-
-
-
-ה-git repo של הפרוייקט נמצא [בTodo-List-Back](https://dev.azure.com/ShaharDigital/CPR/_git/Todo-List-Back) .Azure  [Todo-List-Front](https://dev.azure.com/ShaharDigital/CPR/_git/Todo-List-Front)
+המשימה תתחלק ל-3 חלקים, כאשר אחרי כל חלק החופף יעשה לכם code review מלא. ה-git repo של הפרוייקט נמצא [בTodo-List-Back](https://dev.azure.com/ShaharDigital/CPR/_git/Todo-List-Back) .Azure  [Todo-List-Front](https://dev.azure.com/ShaharDigital/CPR/_git/Todo-List-Front)
 
 את Todo-List-Back תצטרכו רק עבור החלק השלישי, אז אפשר לדלג עליו בינתיים. אבל לפני שתתחילו לעבוד על החלק הראשון, תעשו clone ל  Todo-List-Front
  
