@@ -1,4 +1,15 @@
-<div direction="rtl">
+<div dir="rtl">
+
+# חפיפה אפליקטיבית 
+
+
+### הסבר כללי 
+החפיפה אפליקטיבית מורכבת מ3 חלקים: 
+**1. יישור קו**
+**2. חפיפת צד לקוח ושרת**
+**3. חפיפה אקטיבית**
+
+## יישור קו
 בחלק הראשון, חשוב לקבל קצת הבנה בסיסית על איך JavaScript ו-React עובדים, אז תראו כמה סרטונים על JavaScript ו-React.
 אם אתם רואים שאתם מכירים כבר את התוכן של הסרטון, אפשר לראות ברפרוף; אבל אל תדלגו על הכל, יכול להיות שתלמדו משהו שלא ידעתם! 
 
@@ -20,23 +31,22 @@
 
 [React in 100 seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 
------------
+[React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) 
 
+Debugging in VSCode 
+
+**חשוב להבין קצת על דרך העבודה שלנו בצוות, אז....**
 לפני שנקפוץ למשימה הראשונה, החופף יסביר לכם כמה דברים שכדאי שתדעו 
 
 Git/Azure – מה זה ואיך זה נראה אצלנו? (בקצרה) 
 
 איך בכלל מדבגים? 
 
-[React Devtools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) 
-
-Debugging in VSCode 
-
 כל דבר שתרצו לשאול! תרגישו חופשי לשאול את החופף כל דבר שאתם לא מרגישים בטוחים בו, או שסתם בא לכם לדעת 
 
- 
-
-המשימה הראשונה – Todo List: 
+----------
+## חפיפת צד לקוח ושרת
+[Todo List](./todomission.md)
  
 
 סיימתם את ה-TodoList, כל הכבוד! עכשיו הגיע הזמן לקבל קצת מידע מהחופף על המבנה של המערכת ומנהגי התכנות שלנו:  
