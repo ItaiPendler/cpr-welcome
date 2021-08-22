@@ -25,5 +25,7 @@
 ## [התקנות](./Installations.md)
 
 ## [חפיפה אפליקטיבית](./fullstack-mentoing.md)
-## סיימתם!
+
+<h1 style="text-align: center;">
+זהו! סיימתם את החפיפה של CPR, בהצלחה בצוות הכי שווה בשחר 😉 </h1>
 <div>

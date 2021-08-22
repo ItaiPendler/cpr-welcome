@@ -70,8 +70,4 @@ Git/Azure – מה זה ואיך זה נראה אצלנו? (בקצרה)
 - Field resolvers 
 - getGraphQuery (עוד לא מוכן) 
 - .env, ormconfig.js, package.json 
- 
-
-זהו! סיימתם את החפיפה של CPR, בהצלחה בצוות הכי שווה בשחר 😉 
-
 </div>
