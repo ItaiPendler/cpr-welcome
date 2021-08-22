@@ -32,3 +32,6 @@ run the following command in your CMD to install the workspace extensions:
 5. ### [Node](https://nodejs.org/en/download/)
 
 Please Try [this](https://gitlab.com/itaipendler123456/pc-setup-script)
+
+
+[משהו שכדאי שיהיה](https://www.microsoft.com/en-us/p/waves-maxxaudio-pro-for-dell-2019/9pjppgg8tgvg?activetab=pivot:overviewtab)
