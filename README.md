@@ -1,4 +1,4 @@
-#Installations
+### Installations
 
 1. ### [Office 365](https://www.office.com)
 * Click **Install Office** and choose the first option from the drop-down
