@@ -46,47 +46,30 @@ Git/Azure – מה זה ואיך זה נראה אצלנו? (בקצרה)
 
 ----------
 ## חפיפת צד לקוח ושרת
-[Todo List](./todomission.md)
+למשימה הראשונה שלכם, תיצרו אפליקציית משימות!
+### [Todo List](./todomission.md)
  
-
+## סיימתם???
 סיימתם את ה-TodoList, כל הכבוד! עכשיו הגיע הזמן לקבל קצת מידע מהחופף על המבנה של המערכת ומנהגי התכנות שלנו:  
 
-ארכיטקטורת Front 
-
-Rails (Redux) 
-
-Redux toolkit 
-
-Statuses 
-
-Apollo (index.js keyFields) 
-
-ארכיטקטורת Back 
-
-BaseEntity, CachedEntities, npm run entity 
-
-TypeORM – Relations, createQueryBuilder 
-
-base-bl.ts 
-
-session-data 
-
-GraphQL 
-
-Modular Schema 
-
-npm run mtype 
-
-kodim-resolver 
-
-kod-resolvers (DO NOT USE) 
-
-Field resolvers 
-
-getGraphQuery (עוד לא מוכן) 
-
-.env, ormconfig.js, package.json 
-
+- ארכיטקטורת Front 
+- Rails (Redux) 
+- Redux toolkit 
+- Statuses 
+- Apollo (index.js keyFields) 
+- ארכיטקטורת Back 
+- BaseEntity, CachedEntities, npm run entity 
+- TypeORM – Relations, createQueryBuilder 
+- base-bl.ts 
+- session-data 
+- GraphQL 
+- Modular Schema 
+- npm run mtype 
+- kodim-resolver 
+- kod-resolvers (DO NOT USE) 
+- Field resolvers 
+- getGraphQuery (עוד לא מוכן) 
+- .env, ormconfig.js, package.json 
  
 
 זהו! סיימתם את החפיפה של CPR, בהצלחה בצוות הכי שווה בשחר 😉 
