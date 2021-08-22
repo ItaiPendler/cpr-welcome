@@ -10,9 +10,9 @@
  מידע על המערכת הקיימת, קצת על עולם הרפואה בצה"ל, היסטוריה של CPR ולמה הלקוחות לא אוהבים אותנו 
 
 ### 2. **תכנות Frontend**
-- JavaScript,
-- React,
-- Redux,
+- JavaScript
+- React
+- Redux
 - GraphQL/Apollo 
 
 ### 3. **תכנות Backend**

@@ -2,7 +2,6 @@
 
 1. ### [Office 365](https://www.office.com)
 * Click **Install Office** and choose the first option from the drop-down
-![image.png](/.attachments/image-665c9ed1-50b9-40b6-9069-16a56f3af449.png)
 * Then follow the installation instructions (Give it time)
 
 
