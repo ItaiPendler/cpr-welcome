@@ -1,5 +1,7 @@
 ### Installations
 
+Please Try [this](https://github.com/ItaiPendler/PC-Setup-Script), you need to download everything there and run the chocolaty.bat with admin privleges
+
 1. ### [Office 365](https://www.office.com)
 * Click **Install Office** and choose the first option from the drop-down
 * Then follow the installation instructions (Give it time)
@@ -31,7 +33,5 @@ run the following command in your CMD to install the workspace extensions:
 
 5. ### [Node](https://nodejs.org/en/download/)
 
-Please Try [this](https://gitlab.com/itaipendler123456/pc-setup-script)
-
-
-[משהו שכדאי שיהיה](https://www.microsoft.com/en-us/p/waves-maxxaudio-pro-for-dell-2019/9pjppgg8tgvg?activetab=pivot:overviewtab)
+#### **אם יש בעיה בסאנוד של המחשב כדאי להוריד את**
+[זה](https://www.microsoft.com/en-us/p/waves-maxxaudio-pro-for-dell-2019/9pjppgg8tgvg?activetab=pivot:overviewtab)
