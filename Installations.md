@@ -8,7 +8,7 @@ Please Try [this](https://github.com/ItaiPendler/PC-Setup-Script), you need to d
 
 
 2. ### [Oracle Driver](https://tikshuv.sharepoint.com/:u:/r/sites/CPR/Shared%20Documents/Development/%D7%94%D7%AA%D7%A7%D7%A0%D7%AA%20OracleDriver.zip?csf=1&web=1&e=35HMwm)
-If you are using a client (like: [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html)) use the following:
+If you are using a client (like: [Oracle SQL Developer](https://tikshuv.sharepoint.com/:f:/r/sites/CPR/Shared%20Documents/Development/sqldeveloper-19.4.0.354.1759-x64?csf=1&web=1&e=zumnX8) use the following:
 
  -  Hostname: `oracledbvmpublic.westeurope.cloudapp.azure.com`
  -  Port: `1521`
@@ -18,7 +18,9 @@ If you are using a client (like: [Oracle SQL Developer](https://www.oracle.com/t
 
 3. ### [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win)
 After installing VSCode, download the [File from here](https://tikshuv.sharepoint.com/:u:/r/sites/CPR/Shared%20Documents/Development/CPR-Development-ExtensionPack-0.0.1.vsix?csf=1&web=1&e=PzrfrC). open vs code and go to the extenstions tab, click the option icon (three dots), and click 'Install from VSIX', then choose the downloaded file.
+
 OR
+
 run the following command in your CMD to install the workspace extensions:
 `code --install-extension christian-kohler.npm-intellisense & code --install-extension CoenraadS.bracket-pair-colorizer & code --install-extension dbaeumer.vscode-eslint & code --install-extension dsznajder.es7-react-js-snippets & code --install-extension eg2.vscode-npm-script & code --install-extension esbenp.prettier-vscode & code --install-extension formulahendry.auto-close-tag & code --install-extension formulahendry.auto-rename-tag & code --install-extension msjsdiag.debugger-for-chrome & code --install-extension PKief.material-icon-theme & code --install-extension SirTori.indenticator & code --install-extension xabikos.JavaScriptSnippets & code --install-extension graphql.vscode-graphql & code --install-extension mikestead.dotenv & code --install-extension eamodio.gitlens`
 
